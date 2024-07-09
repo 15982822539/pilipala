@@ -96,7 +96,10 @@ dependencies:
   # 音量、亮度、屏幕控制
   flutter_volume_controller: ^1.3.1
   screen_brightness: ^0.2.2+1
-  wakelock_plus: ^1.1.1
+#  wakelock_plus: ^1.2.1
+#  wakelock_plus:
+#    git:
+#      url: https://github.com/15982822539/wakelock_plus.git
   universal_platform: ^1.0.0+1
   # 进度条
   audio_video_progress_bar: ^2.0.2
@@ -139,7 +142,7 @@ dependencies:
   nil: ^1.1.1
   catcher_2: ^1.2.3
   logger: ^2.0.2+1
-  path: 1.8.3
+  path: ^1.9.0
   # 电池优化
   disable_battery_optimization: ^1.1.1
   # 展开/收起
